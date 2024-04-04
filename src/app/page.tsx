@@ -1,4 +1,4 @@
-ilimport Heading from "@/components/Heading";
+import Heading from "@/components/Heading";
 import styles from "./page.module.css";
 import PortfolioEntryCardGroup from "@/components/PortfolioEntryCardGroup";
 import Image from "next/image";
