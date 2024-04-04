@@ -1,4 +1,4 @@
-import Heading from "@/components/Heading";
+ilimport Heading from "@/components/Heading";
 import styles from "./page.module.css";
 import PortfolioEntryCardGroup from "@/components/PortfolioEntryCardGroup";
 import Image from "next/image";
@@ -12,19 +12,19 @@ const Footer = () => {
       <br>
       </br>
       <Link className="footer-button" href="mailto:erikh4558@gmail.com" target="_blank">
-        <Image width={100} height={100} src="/mail (1).png" alt="Project" />
+        <Image width={100} height={100} src="/mail (1).png" alt="Email" />
       </Link>
       <Link className="footer-button" href="https://www.linkedin.com/in/erik-hai/" target="_blank">
-        <Image width={100} height={100} src="/linkedin.png" alt="Project" />
+        <Image width={100} height={100} src="/linkedin.png" alt="LinkedIn" />
       </Link>
       <Link className="footer-button" href="https://www.chess.com/member/Erik_Hai" target="_blank">
-        <Image width={100} height={100} src="/strategy.png" alt="Project" />
+        <Image width={100} height={100} src="/strategy.png" alt="Chess" />
       </Link>
       <Link className="footer-button" href="https://github.com/erikhai" target="_blank">
-        <Image width={100} height={100} src="/github.png" alt="Project" />
+        <Image width={100} height={100} src="/github.png" alt="Github" />
       </Link>
       <Link className="footer-button" href="/Erik'sResume (1).pdf" target="_blank">
-        <Image width={100} height={100} src="/cv.png" alt="Project" />
+        <Image width={100} height={100} src="/cv.png" alt="Resume" />
       </Link>
     
     </footer>
