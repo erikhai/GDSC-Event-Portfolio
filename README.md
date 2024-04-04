@@ -32,4 +32,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## What did I learn from this event?
 
-The event required us to clone this [Repository](https://github.com/Dylan700/portfolio-event) which consisted of the basic scaffold of the website. During the event, we were taught how to enhance the functionality of the website and how React, typescript and node.js. This event was an eye opener for me in many ways and it showed me another way to design a portfolio and showed me what kinds of designing is possible with other languages and frameworks. To check out my current portfolio [click here](erikhai.github.io)
+The event required us to clone this [Repository](https://github.com/Dylan700/portfolio-event) which consisted of the basic scaffold of the website. During the event, we were taught how to enhance the functionality of the website and how React, typescript and node.js. This event was an eye opener for me in many ways and it showed me another way to design a portfolio and showed me what kinds of designing is possible with other languages and frameworks. To check out my current portfolio [click here](https://erikhai.github.io)
