@@ -28,3 +28,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## What did I learn from this event?
+
+The event required us to clone this [Repository](https://github.com/Dylan700/portfolio-event) which consisted of the basic scaffold of the website. During the event, we were taught how to enhance the functionality of the website and how React, typescript and node.js. This event was an eye opener for me in many ways and it showed me another way to design a portfolio and showed me what kinds of designing is possible with other languages and frameworks. To check out my current portfolio [click here](erikhai.github.io)
